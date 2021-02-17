@@ -1,7 +1,7 @@
 # Picture-in-Picture
 
-* Play videos on a superimposed video player so you can browse the internet whilst watching videos.
-* Works with YouTube playlists.
+* play videos on superImposed video-player so you can browse interNet whilst watching videos
+* works with YouTube-playLists
 
 ## Stack
 
